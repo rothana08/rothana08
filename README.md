@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=180&section=header&text=Rothana&fontSize=60&fontColor=fff&animation=fadeIn" width="100%"/>
+
 <p align="center">
   <img src="chibi-anime-boy.gif" width="150"/>
 </p>
@@ -26,25 +28,11 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,python,django&theme=dark"/>
 </p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,js,tailwind,git,linux,docker,androidstudio&theme=dark"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -72,3 +60,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rothana08&color=A855F7&style=flat-square" alt="profile views"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer" width="100%"/>
