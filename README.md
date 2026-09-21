@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Rothana 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%7C+Laravel+%26+Spring+Boot;Building+ERP%2C+POS+%26+Rental+Systems;Based+in+Phnom+Penh%2C+Cambodia+🇰🇭" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%7C+Laravel+%26+Spring+Boot;Building+ERP%2C+POS+%26+Rental+Systems;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
 </p>
 
 <p align="center">
